@@ -19,5 +19,5 @@ function Art() {
         <button onClick={() => setCount(count * 2)}>Giảm giá trị</button>
 			</div>
 	)}; 
-
+// this is life 
 export default Art;
