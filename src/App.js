@@ -19,5 +19,7 @@ function Art() {
         <button onClick={() => setCount(count * 2)}>Giảm giá trị</button>
 			</div>
 	)}; 
-// this is life 
+// this is a wonderful life 
+// new comment
 export default Art;
+
